@@ -1,6 +1,7 @@
 <template>
   <view class="index">
     <text>{{ msg }}</text>
+    <button type="button">123</button>
   </view>
 </template>
 
